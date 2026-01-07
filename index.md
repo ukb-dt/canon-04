@@ -20,7 +20,7 @@
 ### [Preface](https://ukb-dt.github.io/nkonte-02/)
 
 > *In the Bantu languages of the Great Lakes region*      
-> *The shift from *Ukubona* to **Okubonabona***      
+> *The shift from *Ukubona* to **[Okubonabona](https://ukb-dt.github.io/biosketch-20260107/)***      
 > *Represents a catastrophic phase transition.*              
 > *It is the linguistic marker for the exact "cost curve"*     
 > -Zosima & Gemini
