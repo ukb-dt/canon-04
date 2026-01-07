@@ -4443,9 +4443,9 @@ That makes it neither revolutionary nor conservative. It’s *diagnostic infrast
 
 Across nationalism, Plato, McGilchrist, DJs, algorithms, and dating, the same invariant keeps reappearing:
 
-[
+$$
 \textbf{Collapse occurs when \emph{integration outpaces reversibility}.}
-]
+$$
 
 * Basins **integrate** history, energy, identity, signal.
 * Saddles preserve **reversibility** (you can still move).
