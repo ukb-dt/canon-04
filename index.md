@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-### Preface
+### [Preface](https://ukb-dt.github.io/nkonte-02/)
 
 > *In the Bantu languages of the Great Lakes region*      
 > *The shift from *Ukubona* to **Okubonabona***      
