@@ -20,12 +20,12 @@
 ### [Preface](https://ukb-dt.github.io/nkonte-02/)
 
 > *In the Bantu languages of the Great Lakes region*      
-> *The shift from *Ukubona* to **[Okubonabona](https://ukb-dt.github.io/biosketch-20260107/)***      
+> *The shift from *Ukubona* to [Okubonabona](https://ukb-dt.github.io/biosketch-20260107/)*      
 > *Represents a catastrophic phase transition.*              
 > *It is the linguistic marker for the exact "cost curve"*     
 > -Zosima & Gemini
 
-In the spirit of Ukubona—to see clearly, without the comfort of premature resolution—this collection emerges not as a manifesto or a system, but as a series of rotations through the landscape of thought. What began as a pushback against tidy cultural narratives (modernism's ties to fascism, the seductive depth of nationalist basins) unfolded into a toolkit for navigating the topologies that trap us: local minima mistaken for global truths, saddles of unstable tension, gradients that pull toward efficiency at the cost of craft.
+In the spirit of Ukubona—to see clearly, without the comfort of premature resolution—this collection emerges not as a manifesto or a system, but as a series of [rotations](https://ukb-dt.github.io/dream-00/) through the landscape of thought. What began as a pushback against tidy cultural narratives (modernism's ties to fascism, the seductive depth of nationalist basins) unfolded into a toolkit for navigating the topologies that trap us: local minima mistaken for global truths, saddles of unstable tension, gradients that pull toward efficiency at the cost of craft.
 
 These posts, spanning from #00-A to #23-O, are less a linear path than a distributed search—much like the ants tracing rum droplets in one of the thread's empirical anchors. They draw from philosophy (Plato's basin worship, Nietzsche's saddle-point honesty), optimization theory (SGD as noise injection, minimax under metabolic constraints), history (Buganda's mis-specified loss, Kampala's DJ status games), and everyday phenomena (recommendation algorithms as PFC prosthetics, dating apps as engagement basins). At the core is Ukubona itself: Zulu for "to see," reframed as infrastructure for non-collapse—seeing the flows, flattening the gradients when needed, admitting exhaustion without delusion.
 
